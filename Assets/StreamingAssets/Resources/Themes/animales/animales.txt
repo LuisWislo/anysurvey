@@ -1,0 +1,11 @@
+img,perro.jpg,Perro,perro
+img,gato.png,Gato,gato
+img,cerdo.png,Cerdo,cerdo
+img,vaca.png,Vaca,vaca
+img,caballo.png,Caballo,caballo
+img,serpiente.png,Serpiente,serpiente
+img,leon.png,Leon,leon
+img,tigre.png,Tigre,tigre
+img,elefante.png,Elefante,elefante
+img,toro.png,Toro,toro
+img,pez.png,Pez,pez

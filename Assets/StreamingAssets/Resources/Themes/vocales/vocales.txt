@@ -1,0 +1,5 @@
+txt, ¿Cual es la vocal a?, A, a
+txt, ¿Cual es la vocal e?, E, e
+txt, ¿Cual es la vocal i?, I, i
+txt, ¿Cual es la vocal o?, O, o
+txt, ¿Cual es la vocal u?, U, u

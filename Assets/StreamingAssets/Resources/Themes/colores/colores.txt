@@ -1,0 +1,13 @@
+img,blanco.png,Blanco,blanco
+img,rojo.png,Rojo,rojo
+img,azul.png,Azul,azul
+img,verde.png,Verde,verde
+img,negro.png,Negro,negro
+img,amarillo.png,Amarillo,amarillo
+img,morado.png,Morado,morado
+img,naranja.png,Naranja,naranja
+img,rosa.png,Rosa,rosa
+img,gris.png,Gris,gris
+img,cafe.png,Cafe,cafe
+img,beige.png,Beige,beige
+img,turquesa.png,Turquesa,turquesa

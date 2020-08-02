@@ -1,0 +1,3 @@
+brush.png,Colores,colores:5,9,13
+letter.png,Vocales,vocales:3,5
+pig.png,Animales,animales:5,8,11
